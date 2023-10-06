@@ -1,0 +1,17 @@
+.userId {
+  background-color: rgb(88, 47, 5);
+  color: white;
+  font-size: larger;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 2px solid red;
+}
+
+.title {
+  font-size: larger;
+  border: 2px solid blue;
+}
+
+.body {
+  font-size: larger;
+  border: 2px solid green;
+}
