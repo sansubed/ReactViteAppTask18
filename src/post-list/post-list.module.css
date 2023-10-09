@@ -1,17 +1,27 @@
+.post {
+  padding: 10px;
+  background-color: rgb(154, 150, 146);
+  color: white;
+  border-radius: 5px;
+}
+
 .userId {
-  background-color: rgb(88, 47, 5);
+  padding: 3px;
+  background-color: rgb(10, 85, 95);
   color: white;
   font-size: larger;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  border: 2px solid red;
+  border-radius: 5px;
+  margin-bottom: 5px;
 }
 
 .title {
   font-size: larger;
-  border: 2px solid blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .body {
+  padding-top: 5px;
   font-size: larger;
-  border: 2px solid green;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

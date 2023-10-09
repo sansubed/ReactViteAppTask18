@@ -13,7 +13,7 @@ function PostList() {
     });
   }, []);
   return (
-    <div>
+    <div className={styles.post}>
       {postData.map((postData) => (
         <>
           <h1 key={postData.id}></h1>
